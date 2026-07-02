@@ -1,4 +1,4 @@
-# BrightWave AI Support Agent — n8n Workflow
+# AI Support Agent — n8n Workflow
 
 A production-ready AI customer support endpoint built in n8n, powered by Claude (Anthropic API). Deployed as a webhook API that any website, chat widget, or app can call directly to get instant, on-brand support answers.
 
@@ -43,7 +43,7 @@ curl -X POST https://your-domain.com/webhook/support \
 ```
 
 ```json
-{"answer": "I'm sorry, but writing poems is outside of what I'm able to help with here! I'm specialized in assisting with BrightWave Electronics orders, shipping, returns, and product questions. For anything else, feel free to reach out to our human support team."}
+{"answer": "I'm sorry, but writing poems is outside of what I'm able to help with here! I'm specialized in assisting with Cherry Electronics orders, shipping, returns, and product questions. For anything else, feel free to reach out to our human support team."}
 ```
 
 ## Tech Stack
